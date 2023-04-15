@@ -57,7 +57,7 @@
               <a class="nav-link" href="./add.php">Registrarse</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="index.php">Editar Registro</a>
+            <a class="nav-link" href="../admi.html">Admin</a>
             </li>
           </ul>
         </div>

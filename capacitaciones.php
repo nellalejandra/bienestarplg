@@ -47,7 +47,7 @@
               <a class="nav-link" href="./docente/add.php">Registrarse</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./docente/index.php">Editar Registro</a>
+              <a class="nav-link" href="./admi.html">Admin</a>
             </li>
           </ul>
         </div>
@@ -61,11 +61,10 @@
     <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-12 d-flex align-items-center d-flex flex-column mb-3 ">
         <h2>
-          Capacitación 1
+          Capacitación TOEFL 1
         </h2>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia repudiandae dolorem impedit alias deserunt
-          perspiciatis, ratione beatae ea accusamus, hic provident animi iure rem illo quia minus eligendi, magnam
-          quidem.</p>
+        <p>En esta capacitación nuestro capacitador steven Ariza nos comparte toda la información inicial respecto a la estructura del TOEFL, cuales son sus partes, qué duración tiene, cómo es su calificación, qué partes del examen son las más complejas y los tips iniciales para poder hacer una excelente preparación.
+        </p>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12 d-flex justify-content-center">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/FXTQq7Ojp94" title="YouTube video player"
@@ -90,11 +89,11 @@
       <br>
       <div class="col-lg-6 col-md-6 col-sm-12 d-flex justify-content-center d-flex flex-column mb-3  ">
         <h2>
-          Capacitación 2
+          Capacitación TOEFL 2
         </h2>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia repudiandae dolorem impedit alias deserunt
-          perspiciatis, ratione beatae ea accusamus, hic provident animi iure rem illo quia minus eligendi, magnam
-          quidem.</p>
+        <p>En esta capacitación podrás aprender cómo preparar el TOEFL, conocerás las herramientas y materiales que PLG ponme a tu alcance para las clases con este enfoque. 
+          Te presentaremos el plan de estudio y te xplicaremos cómo usarlo de acuerdo al perfil y necesidad de tus estudiantes. 
+        </p>
       </div>
 
     </div>
@@ -164,3 +163,4 @@
     integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
     crossorigin="anonymous"></script>
 </body>
+</html>

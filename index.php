@@ -49,7 +49,7 @@
               <a class="nav-link" href="./docente/add.php">Registrarse</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./docente/index.php">Editar Registro</a>
+              <a class="nav-link" href="./admi.html">Admin</a>
             </li>
           </ul>
         </div>
@@ -62,7 +62,7 @@
     <div class="row">
       <div class="col-lg-4 col-md-6 col-sm-6 d-flex align-items-center ">
         <h1>
-          ¡Bienvenid@ a ser parte del equipo PLG!
+          ¡Bienvenido a ser parte del equipo PLG!
         </h1>
       </div>
       <div class="col-lg-8 col-md-6 col-sm-6 d-flex justify-content-center">
@@ -93,20 +93,70 @@
         class="col-lg-8 col-md-6 col-sm-12 d-flex align-items-center d-flex justify-content-center d-flex flex-column mb-3">
         <div class="p-2">
           <h4>Ser parte del equipo PLG es contar con apoyo, respaldo y acompañamiento constante.
-            Queremos que aproveches todas las herramientas que tenemos a tu disposición, para empezar realiza tu
-            registro
-            en nuestra base docente.
+            Queremos que aproveches todas las herramientas que tenemos a tu disposición. para empezar realiza tu
+            registro en nuestra base docente.
           </h4>
 
         </div>
         <div class="p-2">
-          <button type="button" class="btn btn-info" href="./add.php" >Registrarse
-            <a href="./add.php"></a>
+          <button type="button" class="btn btn-info" href="./docente/add.php">Registrarse
+            
           </button>
 
         </div>
       </div>
     </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div>
+          <h3 class=text-center> Beneficios de ser profe PLG  </h3>
+
+        </div>
+      </div>
+
+      <br>
+
+    
+    </div>
+    <div class="row">
+     <img src="./imagenes/profes4.png" class="img-fluid" alt="."> 
+    </div>
+
+    <br>
+
+  <footer class="bg-body-tertiary">
+    <div class="d-flex justify-content-between">
+      <div class="p-2">
+        <img src="./Imagenes/logo.png" alt="logo" width="100">
+        <br> <br>
+        <p> Creado por Nella Rodriguez</p>
+      </div>
+
+      <div class="p-2 d-flex flex-column mb-3">
+        <h2> Redes sociales</h2>
+
+        <a href="">
+          <i class="fa-brands fa-facebook"></i> fa-facebook
+        </a>
+        <a href=""><i class="fa-brands fa-square-instagram"></i>instagram</a>
+        <a href=""><i class="fa-brands fa-linkedin"></i>linkedin</a>
+      </div>
+
+      <div class="p-2 d-flex flex-column mb-3">
+        <h2> Contacto</h2>
+        <p><i class="fa-brands fa-whatsapp"></i> +573194136367</p>
+        <p><i class="fa-solid fa-envelope"></i>academico@plgeducation.com</p>
+
+
+      </div>
+    </div>
+  </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+    crossorigin="anonymous"></script>
 </Body>
 
 </html>

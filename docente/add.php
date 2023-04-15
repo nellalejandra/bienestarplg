@@ -65,24 +65,30 @@
               <a class="nav-link" href="./add.php">Registrarse</a>
             </li>
             <li class="nav-item">
-               <a class="nav-link" href="../docente/index.php">Editar Registro</a>
+              <a class="nav-link" href="../admi.html">Admin</a>
             </li>
           </ul>
         </div>
       </div>
     </div>
   </nav>
-  <br>
-  <br>
+  
   <?php 
       if (isset($mensaje)){
         echo $mensaje;
       }
 ?>
+
   <div class= "container" >
-    <h1 class=text-center> Regístrate en nuestra base docente </h1>
+  <div class=row>
+      <img src="../imagenes/profes3.png" class="img-fluid" alt="."> 
+    </div>
+    <h3 class=text-center> ingresa tu información </h3>
     <br>
     <br>
+    
+    
+  
       <form method="POST" enctype="multipart/form-data">
         <div class=row mb-2>
           <div class = col>
@@ -145,7 +151,33 @@
 
 
   </Div>
+  <footer class="bg-body-tertiary">
+    <div class="d-flex justify-content-between">
+      <div class="p-2">
+        <img src="../Imagenes/logo.png" alt="logo" width="100">
+        <br> <br>
+        <p> Creado por Nella Rodriguez</p>
+      </div>
 
+      <div class="p-2 d-flex flex-column mb-3">
+        <h2> Redes sociales</h2>
+
+        <a href="">
+          <i class="fa-brands fa-facebook"></i> fa-facebook
+        </a>
+        <a href=""><i class="fa-brands fa-square-instagram"></i>instagram</a>
+        <a href=""><i class="fa-brands fa-linkedin"></i>linkedin</a>
+      </div>
+
+      <div class="p-2 d-flex flex-column mb-3">
+        <h2> Contacto</h2>
+        <p><i class="fa-brands fa-whatsapp"></i> +573194136367</p>
+        <p><i class="fa-solid fa-envelope"></i>academico@plgeducation.com</p>
+
+
+      </div>
+    </div>
+  </footer>
 
     
 </body>
